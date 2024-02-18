@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteInfoApp", "WebSiteInfoApp\WebSiteInfoApp.csproj", "{FCEEA2D1-37AA-429B-8145-ABD1A6129424}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UrlKeywords", "UrlKeywords\UrlKeywords.vdproj", "{A989023D-E4B4-43D8-B6C7-2E7C7265F855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEEA2D1-37AA-429B-8145-ABD1A6129424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEEA2D1-37AA-429B-8145-ABD1A6129424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEEA2D1-37AA-429B-8145-ABD1A6129424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEEA2D1-37AA-429B-8145-ABD1A6129424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A989023D-E4B4-43D8-B6C7-2E7C7265F855}.Debug|Any CPU.ActiveCfg = Debug
+		{A989023D-E4B4-43D8-B6C7-2E7C7265F855}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1F8FB8-17CB-4C80-BFF9-D0B8321BC470}
+	EndGlobalSection
+EndGlobal
